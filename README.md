@@ -60,8 +60,8 @@ streamtape.com, streamsb.net, feurl.com, pixeldrain.com, racaty.net,
 1fichier.com, 1drv.ms (Only works for file not folder or business account),
 uptobox.com (Uptobox account must be premium), solidfiles.com
 ```
-**See these examples for custom filename, Extract/Compress password protected files and downlaod from protected links**
-<p><a href="https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20"> <img src="https://img.shields.io/badge/See%20Telegraph-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
+
+
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
@@ -282,8 +282,8 @@ sudo docker container prune
 ```
 sudo docker image prune -a
 ```
-- Tutorial video from Tortoolkit repo
-<p><a href="https://youtu.be/c8_TU1sPK08"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
+
+
 
 ## Deploying on Heroku
 - Deploying on Heroku with Github Workflow
