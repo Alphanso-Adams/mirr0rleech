@@ -4,7 +4,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By me
+## kek
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
@@ -287,10 +287,9 @@ sudo docker image prune -a
 
 ## Deploying on Heroku
 - Deploying on Heroku with Github Workflow
-<p><a href="https://telegra.ph/Heroku-Deployment-10-04"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 - Deploying on Heroku with heroku-cli and Goorm IDE
-<p><a href="https://telegra.ph/How-to-Deploy-a-Mirror-Bot-to-Heroku-with-CLI-05-06"> <img src="https://img.shields.io/badge/Deploy%20Guide-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
+
 
 # Using Service Accounts for uploading to avoid user rate limit
 For Service Account to work, you must set `USE_SERVICE_ACCOUNTS` = "True" in config file or environment variables.
