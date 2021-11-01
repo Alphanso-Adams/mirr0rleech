@@ -179,7 +179,7 @@ Three buttons are already added including Drive Link, Index Link, and View Link,
 - `BUTTON_SIX_NAME`:
 - `BUTTON_SIX_URL`:
 
-## Bot commands to be set in [@BotFather](https://t.me/BotFather)
+## Bot commands
 
 ```
 mirror - Start mirroring
