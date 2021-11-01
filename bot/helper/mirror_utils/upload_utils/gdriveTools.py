@@ -577,9 +577,9 @@ class GoogleDriveHelper:
                     content += f'<b> | <a href="https://telegra.ph/{self.path[nxt_page]}">Next</a></b>'
                     nxt_page += 1
             Telegraph(access_token=telegraph_token).edit_page(path = self.path[prev_page],
-                                 title = 'MirLeechX Search',
-                                 author_name='MirLeechX',
-                                 author_url='https://github.com/iamLiquidX/MirLeechX',
+                                 title = 'Christian Bale Search',
+                                 author_name='Christian Bale',
+                                 author_url='https://github.com',
                                  html_content=content)
         return
 
