@@ -579,7 +579,7 @@ class GoogleDriveHelper:
             Telegraph(access_token=telegraph_token).edit_page(path = self.path[prev_page],
                                  title = 'Christian Bale Search',
                                  author_name='Christian Bale',
-                                 author_url='https://github.com',
+                                 author_url='https://github.com/iamLiquidX/MirLeechX',
                                  html_content=content)
         return
 
