@@ -776,7 +776,7 @@ class GoogleDriveHelper:
             self.path.append(Telegraph(access_token=telegraph_token).create_page(
                                                     title = 'MirLeechX Search',
                                                     author_name='MirLeechX',
-                                                    author_url='https://github.com/iamLiquidX/MirLeechX',
+                                                    author_url='https://github.com',
                                                     html_content=content
                                                     )['path'])
 
